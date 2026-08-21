@@ -1,6 +1,7 @@
 # Football Data Analyzer
 
 Hi, Yair!
+Did you see the change?
 
 A lightweight Python tool for analyzing football (soccer) player and team statistics from tabular data. The core logic lives in `dashboard.py` as the `FootballDataAnalyzer` class, built on [pandas](https://pandas.pydata.org/).
 
